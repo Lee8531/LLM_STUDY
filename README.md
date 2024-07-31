@@ -3,7 +3,7 @@
 这是一个AI新手的学习记录，纯个人笔记
 
 ## 准备工作
-### 梯子（梯子.ipynb）
+### 基于clash的梯子（https://github.com/Lee8531/clash-for-linux-vpn)
 
 
 ## 模型开发
